@@ -4,6 +4,8 @@ I have search around but I have not found any personal assistants that are made 
 Functionality:
 As I previously stated the commands this assitant will follow are somewhat limited and must be added in. The current commands are:
 
+The OSINT and Twint functions are still being worked on. 
+
 Open Youtube
 
 Open email
@@ -27,3 +29,6 @@ Open webcam (Opens up insecam.org which supposed to be the world's largest datab
 Open shodan (Shodan is the search engine of the internet of things. An incredibly useful tool for finding exposed devices on the internet.)
 
 Open reverse shell generator (This opens up a reverse shell generator called revshells.com a very helpful website for pentesting and one every hacker should know about.)
+
+(THIS MODEL WILL ALWAYS HAVE MORE FEATURES ADDED AS REQUESTED IN ISSUES BY GITHUB USERS OR BY STUFF ADDED BY ME. THIS IS GOING TO BE A GROWING PROJECT. IT HAS LIMITED FUNCTIONALITY NOW BUT MORE WILL COME SOON.)
+
